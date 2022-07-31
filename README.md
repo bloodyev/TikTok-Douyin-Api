@@ -1,5 +1,6 @@
-# X-Ladon, X-Gorgon, X-Tyhon, X-Argus video without watermark bot, account create, gorgon algorithm
+# X-Ladon, X-Gorgon, X-Argus video without watermark bot, account create, gorgon algorithm
 
+## ICQ - @apitok - https://icq.im/apitok
 ## Skype - live:.cid.8e129461a4e880f7
 ## Telegram @tiktokpeppa
 
